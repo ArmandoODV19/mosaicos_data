@@ -12,9 +12,10 @@ mosaicos$frecuencia <- as.numeric(mosaicos$frecuencia)
 mosaicos %>%
   filter(clase == "I") %>%
   ggplot(aes(x = enfermedad, y = frecuencia, color = edad, group = edad)) +
-  geom_line() +
+  geom_line(size = 2) +
   geom_point(size = 6)+
-  xlab("")
+  xlab("")+
+  theme_classic()
 
 
 
