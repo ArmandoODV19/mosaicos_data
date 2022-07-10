@@ -11,7 +11,7 @@ I,accidentes_trabajo,1062,55-69
 I,accidentes_trabajo,427,60-64
 I,accidentes_trabajo,109,68-69
 I,accidentes_trabajo,22,70-74
-I,accidentes_trabajo,  13 ,>75
+I,accidentes_trabajo,13,>75
 I,accidentes_trayecto,118,15-19
 I,accidentes_trayecto,1396,20-24
 I,accidentes_trayecto,2341,25-29
@@ -24,7 +24,7 @@ I,accidentes_trayecto,475,55-69
 I,accidentes_trayecto,178,60-64
 I,accidentes_trayecto,52,68-69
 I,accidentes_trayecto,15,70-74
-I,accidentes_trayecto,  7 ,>75
+I,accidentes_trayecto,7,>75
 I,enfermedad_trabajo,1,15-19
 I,enfermedad_trabajo,30,20-24
 I,enfermedad_trabajo,60,25-29
@@ -37,47 +37,47 @@ I,enfermedad_trabajo,56,55-69
 I,enfermedad_trabajo,21,60-64
 I,enfermedad_trabajo,8,68-69
 I,enfermedad_trabajo,4,70-74
-I,enfermedad_trabajo,  1 ,>75
-II,accidentes_trabajo, 2 517 ,15-19
-II,accidentes_trabajo, 13 715 ,20-24
-II,accidentes_trabajo, 13 559 ,25-29
-II,accidentes_trabajo, 11 020 ,30-24
-II,accidentes_trabajo, 10 172 ,35-39
-II,accidentes_trabajo, 8 889 ,40-44
-II,accidentes_trabajo, 8 060 ,45-49
-II,accidentes_trabajo, 6 070 ,50-54
-II,accidentes_trabajo, 4 023 ,55-69
-II,accidentes_trabajo, 1 217 ,60-64
-II,accidentes_trabajo,  227 ,68-69
-II,accidentes_trabajo,  53 ,70-74
-II,accidentes_trabajo,  30 ,>75
-II,accidentes_trayecto,  673 ,15-19
-II,accidentes_trayecto, 4 943 ,20-24
-II,accidentes_trayecto, 6 162 ,25-29
-II,accidentes_trayecto, 5 021 ,30-24
-II,accidentes_trayecto, 4 182 ,35-39
-II,accidentes_trayecto, 3 622 ,40-44
-II,accidentes_trayecto, 3 165 ,45-49
-II,accidentes_trayecto, 2 514 ,50-54
-II,accidentes_trayecto, 1 550 ,55-69
-II,accidentes_trayecto,  503 ,60-64
-II,accidentes_trayecto,  98 ,68-69
-II,accidentes_trayecto,  23 ,70-74
-II,accidentes_trayecto,  8 ,>75
-II,enfermedad_trabajo,  121 ,15-19
-II,enfermedad_trabajo, 3 345 ,20-24
-II,enfermedad_trabajo, 14 519 ,25-29
-II,enfermedad_trabajo, 21 932 ,30-24
-II,enfermedad_trabajo, 24 227 ,35-39
-II,enfermedad_trabajo, 19 726 ,40-44
-II,enfermedad_trabajo, 14 364 ,45-49
-II,enfermedad_trabajo, 8 673 ,50-54
-II,enfermedad_trabajo, 4 239 ,55-69
-II,enfermedad_trabajo, 1 086 ,60-64
-II,enfermedad_trabajo,  94 ,68-69
-II,enfermedad_trabajo,  12 ,70-74
-II,enfermedad_trabajo,  5 ,>75
-III,accidentes_trabajo, 1 764 ,15-19
+I,enfermedad_trabajo,1,>75
+II,accidentes_trabajo,2517,15-19
+II,accidentes_trabajo,13715,20-24
+II,accidentes_trabajo,13559,25-29
+II,accidentes_trabajo,11020,30-24
+II,accidentes_trabajo,10172,35-39
+II,accidentes_trabajo,8889,40-44
+II,accidentes_trabajo,8060,45-49
+II,accidentes_trabajo,6070,50-54
+II,accidentes_trabajo,4023,55-69
+II,accidentes_trabajo,1217,60-64
+II,accidentes_trabajo,227,68-69
+II,accidentes_trabajo,53,70-74
+II,accidentes_trabajo,30,>75
+II,accidentes_trayecto,673,15-19
+II,accidentes_trayecto,4943,20-24
+II,accidentes_trayecto,6162,25-29
+II,accidentes_trayecto,5021,30-24
+II,accidentes_trayecto,4182,35-39
+II,accidentes_trayecto,3622,40-44
+II,accidentes_trayecto,3165,45-49
+II,accidentes_trayecto,2514,50-54
+II,accidentes_trayecto,1550,55-69
+II,accidentes_trayecto,503,60-64
+II,accidentes_trayecto,98,68-69
+II,accidentes_trayecto,23,70-74
+II,accidentes_trayecto,8,>75
+II,enfermedad_trabajo,121,15-19
+II,enfermedad_trabajo,3345,20-24
+II,enfermedad_trabajo,14519,25-29
+II,enfermedad_trabajo,21932,30-24
+II,enfermedad_trabajo,24227,35-39
+II,enfermedad_trabajo,19726,40-44
+II,enfermedad_trabajo,14364,45-49
+II,enfermedad_trabajo,8673,50-54
+II,enfermedad_trabajo,4239,55-69
+II,enfermedad_trabajo,1086,60-64
+II,enfermedad_trabajo,94,68-69
+II,enfermedad_trabajo,12,70-74
+II,enfermedad_trabajo,5,>75
+III,accidentes_trabajo,1764,15-19
 III,accidentes_trabajo, 10 613 ,20-24
 III,accidentes_trabajo, 12 383 ,25-29
 III,accidentes_trabajo, 10 646 ,30-24
@@ -87,10 +87,10 @@ III,accidentes_trabajo, 7 229 ,45-49
 III,accidentes_trabajo, 5 558 ,50-54
 III,accidentes_trabajo, 3 769 ,55-69
 III,accidentes_trabajo, 1 327 ,60-64
-III,accidentes_trabajo,  321 ,68-69
-III,accidentes_trabajo,  93 ,70-74
-III,accidentes_trabajo,  32 ,>75
-III,accidentes_trayecto,  451 ,15-19
+III,accidentes_trabajo,321,68-69
+III,accidentes_trabajo,93,70-74
+III,accidentes_trabajo,32,>75
+III,accidentes_trayecto,451,15-19
 III,accidentes_trayecto, 3 731 ,20-24
 III,accidentes_trayecto, 4 706 ,25-29
 III,accidentes_trayecto, 3 966 ,30-24
@@ -99,23 +99,23 @@ III,accidentes_trayecto, 2 582 ,40-44
 III,accidentes_trayecto, 2 350 ,45-49
 III,accidentes_trayecto, 1 828 ,50-54
 III,accidentes_trayecto, 1 268 ,55-69
-III,accidentes_trayecto,  477 ,60-64
-III,accidentes_trayecto,  118 ,68-69
-III,accidentes_trayecto,  29 ,70-74
-III,accidentes_trayecto,  9 ,>75
-III,enfermedad_trabajo,  22 ,15-19
-III,enfermedad_trabajo,  145 ,20-24
-III,enfermedad_trabajo,  180 ,25-29
-III,enfermedad_trabajo,  189 ,30-24
-III,enfermedad_trabajo,  177 ,35-39
-III,enfermedad_trabajo,  259 ,40-44
-III,enfermedad_trabajo,  263 ,45-49
-III,enfermedad_trabajo,  241 ,50-54
-III,enfermedad_trabajo,  212 ,55-69
-III,enfermedad_trabajo,  76 ,60-64
-III,enfermedad_trabajo,  44 ,68-69
-III,enfermedad_trabajo,  10 ,70-74
-III,enfermedad_trabajo,  2 ,>75
+III,accidentes_trayecto,477,60-64
+III,accidentes_trayecto,118,68-69
+III,accidentes_trayecto,29,70-74
+III,accidentes_trayecto,9,>75
+III,enfermedad_trabajo,22,15-19
+III,enfermedad_trabajo,145,20-24
+III,enfermedad_trabajo,180,25-29
+III,enfermedad_trabajo,189,30-24
+III,enfermedad_trabajo,177,35-39
+III,enfermedad_trabajo,259,40-44
+III,enfermedad_trabajo,263,45-49
+III,enfermedad_trabajo,241,50-54
+III,enfermedad_trabajo,212,55-69
+III,enfermedad_trabajo,76,60-64
+III,enfermedad_trabajo,44,68-69
+III,enfermedad_trabajo,10,70-74
+III,enfermedad_trabajo,2,>75
 IV,accidentes_trabajo, 1 277 ,15-19
 IV,accidentes_trabajo, 7 254 ,20-24
 IV,accidentes_trabajo, 7 857 ,25-29
@@ -125,11 +125,11 @@ IV,accidentes_trabajo, 4 950 ,40-44
 IV,accidentes_trabajo, 4 534 ,45-49
 IV,accidentes_trabajo, 3 243 ,50-54
 IV,accidentes_trabajo, 2 154 ,55-69
-IV,accidentes_trabajo,  596 ,60-64
-IV,accidentes_trabajo,  126 ,68-69
-IV,accidentes_trabajo,  26 ,70-74
-IV,accidentes_trabajo,  11 ,>75
-IV,accidentes_trayecto,  321 ,15-19
+IV,accidentes_trabajo,596,60-64
+IV,accidentes_trabajo,126,68-69
+IV,accidentes_trabajo,26,70-74
+IV,accidentes_trabajo,11,>75
+IV,accidentes_trayecto,321,15-19
 IV,accidentes_trayecto, 2 599 ,20-24
 IV,accidentes_trayecto, 3 234 ,25-29
 IV,accidentes_trayecto, 2 651 ,30-24
@@ -137,24 +137,24 @@ IV,accidentes_trayecto, 2 099 ,35-39
 IV,accidentes_trayecto, 1 838 ,40-44
 IV,accidentes_trayecto, 1 624 ,45-49
 IV,accidentes_trayecto, 1 173 ,50-54
-IV,accidentes_trayecto,  731 ,55-69
-IV,accidentes_trayecto,  192 ,60-64
-IV,accidentes_trayecto,  24 ,68-69
-IV,accidentes_trayecto,  6 ,70-74
-IV,accidentes_trayecto,  2 ,>75
-IV,enfermedad_trabajo,  14 ,15-19
-IV,enfermedad_trabajo,  71 ,20-24
-IV,enfermedad_trabajo,  131 ,25-29
-IV,enfermedad_trabajo,  163 ,30-24
-IV,enfermedad_trabajo,  200 ,35-39
-IV,enfermedad_trabajo,  221 ,40-44
-IV,enfermedad_trabajo,  238 ,45-49
-IV,enfermedad_trabajo,  247 ,50-54
-IV,enfermedad_trabajo,  176 ,55-69
-IV,enfermedad_trabajo,  78 ,60-64
-IV,enfermedad_trabajo,  19 ,68-69
-IV,enfermedad_trabajo,  8 ,70-74
-IV,enfermedad_trabajo,  4 ,>75
+IV,accidentes_trayecto,731,55-69
+IV,accidentes_trayecto,192,60-64
+IV,accidentes_trayecto,24,68-69
+IV,accidentes_trayecto,6,70-74
+IV,accidentes_trayecto,2,>75
+IV,enfermedad_trabajo,14,15-19
+IV,enfermedad_trabajo,71,20-24
+IV,enfermedad_trabajo,131,25-29
+IV,enfermedad_trabajo,163,30-24
+IV,enfermedad_trabajo,200,35-39
+IV,enfermedad_trabajo,221,40-44
+IV,enfermedad_trabajo,238,45-49
+IV,enfermedad_trabajo,247,50-54
+IV,enfermedad_trabajo,176,55-69
+IV,enfermedad_trabajo,78,60-64
+IV,enfermedad_trabajo,19,68-69
+IV,enfermedad_trabajo,8,70-74
+IV,enfermedad_trabajo,4,>75
 V,accidentes_trabajo, 1 445 ,15-19
 V,accidentes_trabajo, 8 621 ,20-24
 V,accidentes_trabajo, 10 489 ,25-29
@@ -165,32 +165,32 @@ V,accidentes_trabajo, 7 122 ,45-49
 V,accidentes_trabajo, 5 179 ,50-54
 V,accidentes_trabajo, 3 893 ,55-69
 V,accidentes_trabajo, 1 378 ,60-64
-V,accidentes_trabajo,  310 ,68-69
-V,accidentes_trabajo,  85 ,70-74
-V,accidentes_trabajo,  30 ,>75
-V,accidentes_trayecto,  228 ,15-19
+V,accidentes_trabajo,310,68-69
+V,accidentes_trabajo,85,70-74
+V,accidentes_trabajo,30,>75
+V,accidentes_trayecto,228,15-19
 V,accidentes_trayecto, 1 733 ,20-24
 V,accidentes_trayecto, 2 236 ,25-29
 V,accidentes_trayecto, 1 805 ,30-24
 V,accidentes_trayecto, 1 502 ,35-39
 V,accidentes_trayecto, 1 259 ,40-44
 V,accidentes_trayecto, 1 067 ,45-49
-V,accidentes_trayecto,  795 ,50-54
-V,accidentes_trayecto,  548 ,55-69
-V,accidentes_trayecto,  171 ,60-64
-V,accidentes_trayecto,  52 ,68-69
-V,accidentes_trayecto,  14 ,70-74
-V,accidentes_trayecto,  6 ,>75
-V,enfermedad_trabajo,  17 ,15-19
-V,enfermedad_trabajo,  90 ,20-24
-V,enfermedad_trabajo,  136 ,25-29
-V,enfermedad_trabajo,  213 ,30-24
-V,enfermedad_trabajo,  259 ,35-39
-V,enfermedad_trabajo,  353 ,40-44
-V,enfermedad_trabajo,  483 ,45-49
-V,enfermedad_trabajo,  417 ,50-54
-V,enfermedad_trabajo,  486 ,55-69
-V,enfermedad_trabajo,  631 ,60-64
-V,enfermedad_trabajo,  54 ,68-69
-V,enfermedad_trabajo,  15 ,70-74
-V,enfermedad_trabajo,  14 ,>75
+V,accidentes_trayecto,795,50-54
+V,accidentes_trayecto,548,55-69
+V,accidentes_trayecto,171,60-64
+V,accidentes_trayecto,52,68-69
+V,accidentes_trayecto,14,70-74
+V,accidentes_trayecto,6,>75
+V,enfermedad_trabajo,17,15-19
+V,enfermedad_trabajo,90,20-24
+V,enfermedad_trabajo,136,25-29
+V,enfermedad_trabajo,213,30-24
+V,enfermedad_trabajo,259,35-39
+V,enfermedad_trabajo,353,40-44
+V,enfermedad_trabajo,483,45-49
+V,enfermedad_trabajo,417,50-54
+V,enfermedad_trabajo,486,55-69
+V,enfermedad_trabajo,631,60-64
+V,enfermedad_trabajo,54,68-69
+V,enfermedad_trabajo,15,70-74
+V,enfermedad_trabajo,14,>75
