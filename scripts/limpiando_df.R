@@ -42,3 +42,15 @@ plot_mosaicos <- function(tipo){
 
 plot_mosaicos(tipo = "I")
 
+### haciendo graficos de barras
+
+mosaicos %>%
+  filter(clase == "I") %>%
+  ggplot(aes(x = edad, y = frecuencia, fill = edad)) +
+  geom_col()+
+  facet_wrap(~enfermedad) +
+  xlab("")+
+  theme_classic()+
+  theme(legend.position = "none",
+        text = element_text(size = 15))
+
