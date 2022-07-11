@@ -56,3 +56,19 @@ mosaicos %>%
   geom_text(aes(label = frecuencia), vjust = -0.2)
 
 
+### haciendolo funcion
+
+plot_mosaicos <- function(tipo){
+  mosaicos %>%
+    filter(clase == tipo) %>%
+    ggplot(aes(x = edad, y = frecuencia, fill = edad)) +
+    geom_col()+
+    facet_wrap(~enfermedad) +
+    xlab("")+
+    theme_classic()+
+    theme(legend.position = "none",
+          text = element_text(size = 15))+
+    geom_text(aes(label = frecuencia), vjust = -0.2)
+}
+
+plot_mosaicos(tipo = "V")
