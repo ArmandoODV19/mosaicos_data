@@ -52,5 +52,7 @@ mosaicos %>%
   xlab("")+
   theme_classic()+
   theme(legend.position = "none",
-        text = element_text(size = 15))
+        text = element_text(size = 15))+
+  geom_text(aes(label = frecuencia), vjust = -0.2)
+
 
